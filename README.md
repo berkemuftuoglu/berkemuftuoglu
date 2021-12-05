@@ -1,10 +1,10 @@
-#### Welcome to my profile page!
+# Welcome to my profile page!
 
-### I'm Berke Muftuoglu and I am a Computer Science student
+## I'm Berke Muftuoglu and I am a Computer Science student
 
-## Currently resdesigning my profile page. It will be live soon!
+### Currently resdesigning my profile page. It will be live soon!
 
-# *UNDER CONSTRUCTION*
+#### *UNDER CONSTRUCTION*
  
 
 
