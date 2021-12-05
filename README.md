@@ -2,9 +2,9 @@
 
 ## About me
 
-I'm Berke Muftuoglu and I am a Computer Science student. Currently resdesigning my profile page. It will be live soon!
+I'm Berke Muftuoglu and I am a Computer Science student. I am currently resdesigning my profile page. It will be live soon!
 
-####                                                              *UNDER CONSTRUCTION*
+#### --------------------------------*UNDER CONSTRUCTION*--------------------------------
  
 
 
