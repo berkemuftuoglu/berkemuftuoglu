@@ -4,8 +4,8 @@
 
 I'm Berke Muftuoglu and I am a student pursuing a Bachelor of Science in Computer Science. I will be graduating in 2023.
 
-- Based in London, United Kingdom 🇬🇧
-- I enjoy learning and coding in new languages 👨‍💻
+- 🇬🇧 Based in London, United Kingdom 
+- 👨‍💻 I enjoy learning and coding in new languages 
 - 
 
 
