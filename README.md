@@ -29,6 +29,5 @@ I'm Berke Muftuoglu and I am a student pursuing a Bachelor of Science in Compute
 - Software Development
 - Robotics
 
-[instagram]: https://instagram.com/berkemuftu21
 [linkedin]: https://www.linkedin.com/in/berke-muftuoglu-b1533517b/
 [discord]: https://discordapp.com/users/536279020938199070
