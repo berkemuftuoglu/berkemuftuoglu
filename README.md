@@ -22,7 +22,6 @@ I'm Berke Muftuoglu and I am a student pursuing a Bachelor of Science in Compute
 - Java
 - Python
 - C++
-- HTML, CSS
 
 ### Areas of Interest:
 - Web Development
