@@ -2,7 +2,7 @@
 
 ## About me
 
-I'm Berke Muftuoglu and I am a student pursuing a Bachelor of Science in Computer Science. I will be graduating in 2023. You can find the few projects I did in my account. I am looking foward to spend morre time on my personal prorjects and develop more interesting software in the future. Here are some facts about me:
+I'm Berke Muftuoglu and I am a student pursuing a Bachelor of Science in Computer Science. You can find a few projects I did in my account. I am looking foward to spend morre time on my personal prorjects and develop more interesting software in the future. Here are some facts about me:
 
 - 🇬🇧 Based in London, United Kingdom 
 - 👨‍💻 I enjoy learning and coding in new languages 
