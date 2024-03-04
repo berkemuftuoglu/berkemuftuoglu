@@ -18,7 +18,8 @@ Embracing the challenge of becoming coding language and tool agnostic, aiming to
 
 ### 📚 Currently Working On:
 
-- **PhotoRoll**: An engaging project I'm passionate about. Exciting updates coming soon!
+- **DigiFi**: A python finance package for simple finance functions
+- **Learning Rust**
 
 ### 🌐 Connect with Me:
 
