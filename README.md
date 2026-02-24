@@ -1,40 +1,63 @@
-# Welcome to Berke Muftuoglu's Profile!
+# Berke Muftuoglu
 
-![Followers](https://img.shields.io/github/followers/berkemuftuoglu?style=social)  ![Profile Views](https://komarev.com/ghpvc/?username=berkemuftuoglu&color=blueviolet)  ![Stars](https://img.shields.io/github/stars/berkemuftuoglu?style=social)
+London Based Engineer
+
+I like building stuff that actually matters. I like coding on my own time working on projects that I find interesting, and most importantly solving real problems. I'm a bit of a polyglot when it comes to programming languages, and I'm always on the lookout for new challenges.
+
+---
+
+![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![C#](https://img.shields.io/badge/-C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
+![Ansible](https://img.shields.io/badge/-Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Helm](https://img.shields.io/badge/-Helm-0F1689?style=flat-square&logo=helm&logoColor=white)
+
+![Prometheus](https://img.shields.io/badge/-Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/-Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
+![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/-Azure%20DevOps-0078D7?style=flat-square&logo=azuredevops&logoColor=white)
+
+---
+
+<details>
+<summary>Experience</summary>
+<br>
+
+**Nossa Data** — Data Automation Engineer. In-house tooling and data pipeline automation.
+
+**NetraScale** — Researcher. Federated Learning & Zero Trust security optimisation.
+
+**BtcTurk** — DevOps Engineer. CI/CD pipelines, Kubernetes (AKS/RKE2), Terraform, Ansible, Prometheus/Grafana.
+
+**Getir** — Software Engineer. Migrated reconciliation system from Java to .NET C# on live prod, 1M+ records.
+
+</details>
+
+<details>
+<summary>Education</summary>
+<br>
+
+**UCL** — MSc Emerging Digital Technologies (Merit), 2024
+
+**King's College London** — BSc Computer Science (First-Class Honours), 2023
 
 
-## About Me
+</details>
 
-Hello, I'm Berke Muftuoglu, a Computer Science student with a strong passion for DevOps and software engineering, based in London. My journey in technology is not only about coding but also about understanding and implementing efficient software development practices. With a keen interest in DevOps methodologies, I am constantly exploring ways to improve software deployment and management processes.
+---
 
-As I progress through my academic journey, I am deeply involved in understanding the intricacies of automation, continuous integration, continuous deployment (CI/CD), and cloud infrastructure management. My goal is to bridge the gap between development and operations, ensuring faster and more reliable software releases.
-
-I'm currently dedicating my time to both my studies and personal projects, with a special focus on applying DevOps principles to build robust and scalable systems. Join me in this exciting journey as I explore the evolving world of DevOps and cloud-native technologies!
-
-
-### 🎯 Objective:
-
-Embracing the challenge of becoming coding language and tool agnostic, aiming to master diverse technologies with proficiency.
-
-### 📚 Currently Working On:
-
-- **DigiFi**: A python finance package for simple finance functions
-- **Learning Rust**
-
-### 🌐 Connect with Me:
-
-[![LinkedIn](https://img.shields.io/badge/-BerkeMuftuoglu-blue?style=flat-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/berkemuftuoglu/)](https://www.linkedin.com/in/berkemuftuoglu/)
-
-### 🖥️ Languages and Tools:
-
-#### Programming Languages:
-![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java) ![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus) ![.NET (C#)](https://img.shields.io/badge/-.NET%20(C%23)-512BD4?style=for-the-badge&logo=dotnet) ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python) ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=for-the-badge&logo=flutter) ![Scala](https://img.shields.io/badge/-Scala-DC322F?style=for-the-badge&logo=scala) ![Haskell](https://img.shields.io/badge/-Haskell-5D4F85?style=for-the-badge&logo=haskell) ![Isabelle](https://img.shields.io/badge/-Isabelle-FF69B4?style=for-the-badge&logo=Isabelle) ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=mysql) 
-
-#### Software Development Skills:
-![Microservices](https://img.shields.io/badge/-Microservices-009688?style=for-the-badge) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker) ![Git/GitHub](https://img.shields.io/badge/-Git/GitHub-F05032?style=for-the-badge&logo=git) ![Jira](https://img.shields.io/badge/-Jira-0052CC?style=for-the-badge&logo=jira) ![Terraform](https://img.shields.io/badge/-Terraform-623CE4?style=for-the-badge&logo=terraform) ![Kubernetes (AKS & RKE2)](https://img.shields.io/badge/-Kubernetes-326CE5?style=for-the-badge&logo=kubernetes) ![Azure DevOps](https://img.shields.io/badge/-Azure%20DevOps-0078D7?style=for-the-badge&logo=azure-devops) ![Ansible](https://img.shields.io/badge/-Ansible-EE0000?style=for-the-badge&logo=ansible) ![Grafana](https://img.shields.io/badge/-Grafana-F46800?style=for-the-badge&logo=grafana) ![Prometheus](https://img.shields.io/badge/-Prometheus-E6522C?style=for-the-badge&logo=prometheus)
-
-
-### 📈 Stats:
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=berkemuftuoglu&layout=compact&theme=vue)
-
-![Isometric Contributions Calendar](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=berkemuftuoglu&theme=nord_bright)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/berkemuftuoglu/)
+[![Website](https://img.shields.io/badge/-berkemuftuoglu.com-000?style=flat-square&logo=safari&logoColor=white)](https://berkemuftuoglu.com)
+[![Email](https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:berkemuftuoglu1@gmail.com)
+![PADI](https://img.shields.io/badge/-PADI%20Advanced-0077B6?style=flat-square)
+![WSET](https://img.shields.io/badge/-WSET%20Level%202-722F37?style=flat-square)
